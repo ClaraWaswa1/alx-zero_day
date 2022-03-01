@@ -1,2 +1,2 @@
-﻿# This is a git project
-### This will work
+﻿# This is a new git project
+### I am not yet there
