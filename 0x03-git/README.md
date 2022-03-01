@@ -1,2 +1,2 @@
 ﻿# This is a new git project
-### I am not yet there
+### Now I understand the concept
